@@ -1,6 +1,4 @@
-<?php
-
-print"<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     
@@ -28,8 +26,5 @@ print"<!DOCTYPE html>
        </fieldset>
        </form>
   
-
-  
-     
 </body>
-</html>";
+</html>
